@@ -1,4 +1,4 @@
-Capstone Project for IBM Data Science Professional Certificate Program
+**Capstone Project for IBM Data Science Professional Certificate Program**
 
 Final Assignment Requirements
 
